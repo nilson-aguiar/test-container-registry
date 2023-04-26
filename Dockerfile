@@ -1,4 +1,3 @@
-FROM redis:6.12.2
-
+FROM redis:6.2.12
 
 RUN apk upgrade --no-cache
